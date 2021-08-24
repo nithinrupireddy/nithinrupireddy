@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nithin_boss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nithin_boss?lang=en)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinrupireddy&label=Profile%20views&color=129e00&style=plastic" alt="nithinrupireddy" /> </p>
+
 ## I'm a Developer, Music Lover, Good Listener !!
 
 - 🌱 I’m currently learning everything 🤣
