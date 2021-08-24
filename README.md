@@ -10,7 +10,6 @@
 - 👨‍💻 You can also check out my portfolio at [https://github.com/nithinrupireddy](https://github.com/nithinrupireddy)
 - 📫 How to reach me **nithin.rupireddy@gmail.com**
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact : I love parties
 
 <br />
 
