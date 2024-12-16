@@ -2,12 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinrupireddy&label=Profile%20views&color=129e00&style=plastic" alt="nithinrupireddy" /> </p>
 
-## I'm a Developer, Music Lover, Good Listener !!
-
-- 🌱 I’m currently learning everything 🤣
-- 👨‍💻 You can also check out my portfolio at [https://github.com/nithinrupireddy](https://github.com/nithinrupireddy)
-- 📫 How to reach me **nithin.rupireddy@gmail.com**
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
